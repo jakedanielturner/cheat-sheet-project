@@ -12,6 +12,11 @@ table, th, td {
     border-collapse: collapse;
 }
 
+th {
+    background-color: black;
+    color: #f0f0f0;
+}
+
 .property {
     font-family: monospace;
     text-align: center;
